@@ -1,5 +1,5 @@
 To use this github, please make your virtual environment first and install the required dependencies
-Please not that I'm currently using python version 3.9.7
+Please note that I'm currently using python version 3.9.7
 
 1. Make virtual environment
 python -m venv myenv
